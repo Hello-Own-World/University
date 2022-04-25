@@ -6,14 +6,13 @@
 #include <cmath>
 
 using namespace std;
-typedef long long int ll;
+using ll =  long long;
 
 namespace fraction {
     pair<ll, ll> subtr_fractions(pair<ll, ll> l1, pair<ll, ll> l2) {
         pair<ll, ll> l;
         l.first = l1.first * l2.second - l2.first * l1.second;
         l.second = l1.second * l2.second;
-
         if (l.second != 0) {
             ll gcd = __gcd(l.first, l.second);
             if (gcd) {
@@ -28,7 +27,6 @@ namespace fraction {
         pair<ll, ll> l;
         l.first = l1.first * l2.second + l2.first * l1.second;
         l.second = l1.second * l2.second;
-
         if (l.second != 0) {
 
             ll gcd = __gcd(l.first, l.second);
@@ -59,7 +57,6 @@ namespace fraction {
         pair<ll, ll> l;
         l.first = l1.first * l2.first;
         l.second = l1.second * l2.second;
-
         if (l.second != 0) {
             ll gcd = __gcd(l.first, l.second);
             if (gcd) {
@@ -115,18 +112,13 @@ namespace fraction {
                     x.first = x.first / gcd;
                     x.second = x.second / gcd;
                 }
-
-
                 y = sum_fractions(multiply_fractions(k2, x), l2);
-
                 if (x.first == 0 && x.second != 0) {
                     x.second = 1;
                 }
                 if (y.first == 0 && y.second != 0) {
                     y.second = 1;
                 }
-
-
                 pair<pair<ll, ll>, pair<ll, ll>> dot = {x, y};
                 return dot;
             } else {
@@ -171,7 +163,6 @@ struct equ {
     }
 };
 
-
 int main() {
     ll n;
     cin >> n;
@@ -187,7 +178,7 @@ int main() {
             b = b / gcd;
             c = c / gcd;
         }
-        if (a < 0) { // hope it will make duplicate look the same
+        if (a < 0) {
             a *= -1;
             b *= -1;
             c *= -1;
@@ -235,10 +226,8 @@ int main() {
                     } else {
                         parallel_holder.insert({s, 2});
                     }
-//                    cout  << " parallel" << a1 << ' ' << b1 << ' ' << a2 << ' ' << b2 << '\n';
                 }
             }
-
         }
     }
     ll m = 0;
@@ -252,12 +241,10 @@ int main() {
             m++;
         }
     }
-
     ll p = parallel_holder.size();
     for (auto el: parallel_holder) {
         if (el.second > 2) {
-            el.second = 0.5 + sqrt(1 + 8 * el.second) /
-                              2;
+            el.second = 0.5 + sqrt(1 + 8 * el.second) / 2;
         }
         nu.push_back(el.second);
     }
@@ -272,14 +259,13 @@ int main() {
     for (int i = 0; i < p; ++i) {
         res3 += (nu[i] - 1) * nu[i] / 2;
     }
-
     r = 1 + nn + res1 - res2 - res3;
     cout << r;
-
     return 0;
 }
 
 /*
+Tests:
 3
 1 0 0
 0 1 0
