@@ -1,0 +1,3 @@
+C:/Users/yushc/CLionProjects/Algo_deputatski_kravatky/cmake-build-debug/CMakeFiles/Algo_deputatski_kravatky.dir
+C:/Users/yushc/CLionProjects/Algo_deputatski_kravatky/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yushc/CLionProjects/Algo_deputatski_kravatky/cmake-build-debug/CMakeFiles/rebuild_cache.dir

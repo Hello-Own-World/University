@@ -1,0 +1,3 @@
+C:/Users/yushc/CLionProjects/laba6_var2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/yushc/CLionProjects/laba6_var2/cmake-build-debug/CMakeFiles/laba6_var2.dir
+C:/Users/yushc/CLionProjects/laba6_var2/cmake-build-debug/CMakeFiles/edit_cache.dir

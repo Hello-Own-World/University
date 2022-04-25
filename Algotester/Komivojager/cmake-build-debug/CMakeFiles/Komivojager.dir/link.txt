@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Komivojager.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\Komivojager.dir/objects.a @CMakeFiles\Komivojager.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Komivojager.dir/objects.a -Wl,--no-whole-archive -o Komivojager.exe -Wl,--out-implib,libKomivojager.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Komivojager.dir\linklibs.rsp

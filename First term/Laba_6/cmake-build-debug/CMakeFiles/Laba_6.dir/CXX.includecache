@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yushc/CLionProjects/Laba_6/main.cpp
+iostream
+-
+cstring
+-
+algorithm
+-
+ctype.h
+-
+vector
+-
+

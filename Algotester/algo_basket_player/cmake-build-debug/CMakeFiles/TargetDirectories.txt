@@ -1,0 +1,3 @@
+C:/Users/yushc/CLionProjects/algo_basket_player/cmake-build-debug/CMakeFiles/algo_basket_player.dir
+C:/Users/yushc/CLionProjects/algo_basket_player/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yushc/CLionProjects/algo_basket_player/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/yushc/CLionProjects/Algo_noviy_rik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/yushc/CLionProjects/Algo_noviy_rik/cmake-build-debug/CMakeFiles/Algo_noviy_rik.dir
+C:/Users/yushc/CLionProjects/Algo_noviy_rik/cmake-build-debug/CMakeFiles/edit_cache.dir

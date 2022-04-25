@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yushc/CLionProjects/Laba_5_AP/functions.h
+iostream
+-
+
+C:/Users/yushc/CLionProjects/Laba_5_AP/main.cpp
+iostream
+-
+cstring
+-
+cstdlib
+-
+ctime
+-
+functions.h
+C:/Users/yushc/CLionProjects/Laba_5_AP/functions.h
+

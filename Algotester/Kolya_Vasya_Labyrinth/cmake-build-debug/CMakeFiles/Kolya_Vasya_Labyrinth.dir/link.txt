@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Kolya_Vasya_Labyrinth.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\Kolya_Vasya_Labyrinth.dir/objects.a @CMakeFiles\Kolya_Vasya_Labyrinth.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Kolya_Vasya_Labyrinth.dir/objects.a -Wl,--no-whole-archive -o Kolya_Vasya_Labyrinth.exe -Wl,--out-implib,libKolya_Vasya_Labyrinth.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Kolya_Vasya_Labyrinth.dir\linklibs.rsp

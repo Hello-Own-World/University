@@ -1,0 +1,3 @@
+C:/Users/yushc/CLionProjects/Laba8_C/cmake-build-debug/CMakeFiles/Laba8_C.dir
+C:/Users/yushc/CLionProjects/Laba8_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yushc/CLionProjects/Laba8_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

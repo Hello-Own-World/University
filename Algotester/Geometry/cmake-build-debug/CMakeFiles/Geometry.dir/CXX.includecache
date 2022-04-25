@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yushc/CLionProjects/Algotester/Geometry/main.cpp
+iostream
+-
+set
+-
+unordered_map
+-
+vector
+-
+algorithm
+-
+cmath
+-
+

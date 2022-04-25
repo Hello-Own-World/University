@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/yushc/CLionProjects/OOP_lab_2/bin_tree.h
+
+C:/Users/yushc/CLionProjects/OOP_lab_2/main.cpp
+iostream
+-
+bin_tree.h
+C:/Users/yushc/CLionProjects/OOP_lab_2/bin_tree.h
+

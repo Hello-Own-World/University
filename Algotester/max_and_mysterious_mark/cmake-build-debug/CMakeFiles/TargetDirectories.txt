@@ -1,0 +1,3 @@
+C:/Users/yushc/CLionProjects/max_and_mysterious_mark/cmake-build-debug/CMakeFiles/max_and_mysterious_mark.dir
+C:/Users/yushc/CLionProjects/max_and_mysterious_mark/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yushc/CLionProjects/max_and_mysterious_mark/cmake-build-debug/CMakeFiles/rebuild_cache.dir

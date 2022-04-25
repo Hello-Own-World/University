@@ -1,0 +1,3 @@
+C:/Users/yushc/CLionProjects/Petryk_&_row/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/yushc/CLionProjects/Petryk_&_row/cmake-build-debug/CMakeFiles/Petryk___row.dir
+C:/Users/yushc/CLionProjects/Petryk_&_row/cmake-build-debug/CMakeFiles/edit_cache.dir

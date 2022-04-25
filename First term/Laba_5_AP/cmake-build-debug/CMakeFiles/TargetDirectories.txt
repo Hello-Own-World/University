@@ -1,0 +1,3 @@
+C:/Users/yushc/CLionProjects/Laba_5_AP/cmake-build-debug/CMakeFiles/Laba_5_AP.dir
+C:/Users/yushc/CLionProjects/Laba_5_AP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yushc/CLionProjects/Laba_5_AP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

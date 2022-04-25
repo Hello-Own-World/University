@@ -1,0 +1,3 @@
+C:/Users/yushc/CLionProjects/Vasylko_i_cikaviy_mnogokutnik/cmake-build-debug/CMakeFiles/Vasylko_i_cikaviy_mnogokutnik.dir
+C:/Users/yushc/CLionProjects/Vasylko_i_cikaviy_mnogokutnik/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yushc/CLionProjects/Vasylko_i_cikaviy_mnogokutnik/cmake-build-debug/CMakeFiles/rebuild_cache.dir

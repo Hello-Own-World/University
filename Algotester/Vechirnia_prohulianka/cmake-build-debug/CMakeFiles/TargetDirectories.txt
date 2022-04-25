@@ -1,0 +1,3 @@
+C:/Users/yushc/CLionProjects/Vechirnia_prohulianka/cmake-build-debug/CMakeFiles/Vechirnia_prohulianka.dir
+C:/Users/yushc/CLionProjects/Vechirnia_prohulianka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yushc/CLionProjects/Vechirnia_prohulianka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
