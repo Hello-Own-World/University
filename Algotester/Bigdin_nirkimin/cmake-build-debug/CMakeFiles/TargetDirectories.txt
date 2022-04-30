@@ -1,0 +1,3 @@
+C:/Users/yushc/CLionProjects/University/Algotester/Bigdin_nirkimin/cmake-build-debug/CMakeFiles/Bigdin_nirkimin.dir
+C:/Users/yushc/CLionProjects/University/Algotester/Bigdin_nirkimin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yushc/CLionProjects/University/Algotester/Bigdin_nirkimin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
